@@ -1,1 +1,1 @@
-# next-login-app
+npm init -y
